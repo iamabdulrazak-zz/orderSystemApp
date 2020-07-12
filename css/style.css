@@ -13,7 +13,7 @@ html, body {
 
 body {
 	font: 100%/1 'PT Serif', serif;
-	background: #fff;
+	background: #000;
 	color: #333;	
 }
 
@@ -93,14 +93,14 @@ h1, h2, h3, h4, h5, h6 {
 
 .product-description {
 	padding: 1em;
-	background: #000;
-	color: #fff;
+	background: #fff;
+	color: #000;
 	border-radius: 5px;
 }
 
 .product-name {
 	text-align: center;
-	color: #fc0;
+	color: #000;
 	margin: 0;
 	font-size: 1.4em;
 	padding-bottom: 0.2em;
